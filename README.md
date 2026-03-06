@@ -1,7 +1,14 @@
+<h1 align="center">
+  Hi, I'm DWsatrya 👋
+</h1>
 
-# 💫 About Me:
-🔭 I’m currently working on  <br>Making simple 2D games using Unity.<br><br>👯 I’m looking to collaborate on  <br>Small indie game projects and Unity 2D games.<br><br>🤝 I’m looking for help with  <br>Game mechanics, coding in C#, and improving game design.<br><br>🌱 I’m currently learning  <br>Unity, C#, and game development basics.<br><br>💬 Ask me about  <br>Unity 2D , simple game ideas , workout<br><br>⚡ Fun fact  <br>Coding is 50% writing code and 50% Googling errors.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hello+I'm+DWsatrya;A+Beginner+Game+Developer;I+Love+Creating+2D+Games+with+Unity" />
+</p>
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3R4cXpxYW5nc3pmZGlrdGR2cmF2NGdvaDd1ZzNuc25ycWpncDMxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hcNepx45tqcsffZbVV/giphy.gif" width="40%">
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ucupKNALPOT) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dw.s4trya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dewanyomansatrya16@gmail.com) 
@@ -13,7 +20,27 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=DWsatrya&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DWsatrya&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🎮 GitHub Contribution Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+ Feeding the snake with my commits 🐍 
+  <br>
+  It looks a bit skinny because I don't commit very often yet 😅
+</p>
+<br
+  
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGduZ2h2amhtOGE3Z3NweW9jNnNzYnFya2xjZHJodG1lZnhkYXdjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t8pyZiiSnqzrRUAjgU/giphy.gif" width="40%">
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFqMThyZ3NndXAwa2RzcW90Zmthc3p4amV1Nm1rZDFhYmx6bHlkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pJTNMn3P8tjWEGs7fh/giphy.gif" width="40%">
