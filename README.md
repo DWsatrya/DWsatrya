@@ -28,8 +28,14 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DWsatrya/DWsatrya/output/pacman-contribution-graph.svg">
 </picture>
 
+<p align="center">
+ Feeding the pacman with my commits 
+  <br>
+ Pacman is still a bit hungry because my commits are not many yet 😅 
+</p>
+
 ###
-<br
+<br>
   
 ### ✍️ Random Dev Quote
 
