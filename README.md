@@ -22,15 +22,13 @@
 
 ## 🎮 GitHub Contribution Game
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DWsatrya/DWsatrya/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DWsatrya/DWsatrya/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DWsatrya/DWsatrya/output/pacman-contribution-graph.svg">
+</picture>
 
-<p align="center">
- Feeding the snake with my commits 🐍 
-  <br>
-  It looks a bit skinny because I don't commit very often yet 😅
-</p>
+###
 <br
   
 ### ✍️ Random Dev Quote
